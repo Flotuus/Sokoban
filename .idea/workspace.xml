@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c2313a-0a6e-4e8c-8afb-95a0ecf03321" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWTvbkjue7pY5ecKgan9ZWOqVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxen\PycharmProjects\ProjetSokoban\niveaux" />
+      <recent name="C:\Users\maxen\PycharmProjects\ProjetSokoban" />
+      <recent name="C:\Users\maxen\PycharmProjects\ProjetSokoban\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxen\PycharmProjects\ProjetSokoban\images" />
+      <recent name="C:\Users\maxen\PycharmProjects\ProjetSokoban" />
+      <recent name="C:\Users\maxen\Desktop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Sokoban">
+    <configuration name="Sokoban" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetSokoban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sokoban.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetSokoban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetSokoban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetSokoban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetSokoban" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sokoban" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.d" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c2313a-0a6e-4e8c-8afb-95a0ecf03321" name="Default Changelist" comment="" />
+      <created>1579264582532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579264582532</updated>
+      <workItem from="1579264583959" duration="10803000" />
+      <workItem from="1579677755698" duration="8047000" />
+      <workItem from="1579698150063" duration="40000" />
+      <workItem from="1580732571029" duration="10924000" />
+      <workItem from="1580800716535" duration="12819000" />
+      <workItem from="1580887142894" duration="224000" />
+      <workItem from="1581934413090" duration="4648000" />
+      <workItem from="1582027825300" duration="6347000" />
+      <workItem from="1582034977357" duration="1900000" />
+      <workItem from="1582109767389" duration="3879000" />
+      <workItem from="1582201325303" duration="3892000" />
+      <workItem from="1582378629301" duration="2739000" />
+      <workItem from="1582381655280" duration="10123000" />
+      <workItem from="1582458539624" duration="1511000" />
+      <workItem from="1582462699334" duration="1439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1582384589180">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582384589180" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1582464284533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582464284533" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1582464284533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582464284533" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1582464284533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582464284533" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1582464284533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582464284533" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582463853575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582463853575" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1582463853575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582463853575" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1582463853574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582463853574" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1582463853575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582463853575" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580805121710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1580805121710" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1582378629004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582378629004" />
+    <state x="334" y="77" width="612" height="526" key="find.popup" timestamp="1579272876142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="334" y="77" width="612" height="526" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579272876142" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580737820199">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580737820199" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>392</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>393</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sokoban.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjetSokoban$fulls_et_couleurs.coverage" NAME="fulls_et_couleurs Coverage Results" MODIFIED="1579681737067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$Jeu_De_La_Vie.coverage" NAME="Jeu_De_La_Vie Coverage Results" MODIFIED="1580733385184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/cours EPSI/AlgoPython/Programmes" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$command.coverage" NAME="command Coverage Results" MODIFIED="1579681729870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ProjetCozmo" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$CoursObjetJulien.coverage" NAME="CoursObjetJulien Coverage Results" MODIFIED="1579268633203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/cours EPSI/AlgoPython/cours" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$Sokoban.coverage" NAME="Sokoban Coverage Results" MODIFIED="1582464284523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1580738167354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$Fichier.coverage" NAME="Fichier Coverage Results" MODIFIED="1579266536463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/cours EPSI/AlgoPython/Programmes" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$test.coverage" NAME="test Coverage Results" MODIFIED="1580736967588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1580800768874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$d.coverage" NAME="d Coverage Results" MODIFIED="1582029099285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetSokoban$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582379214659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
